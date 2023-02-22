@@ -1,0 +1,13 @@
+.general{
+    background-color: grey;
+}
+.center-layout{
+    width: 50%;
+    height: 50%;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 0;
+}
+.special-font {
+    color: rgba(255, 255, 255, 0.8);
+}
